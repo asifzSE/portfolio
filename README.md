@@ -9,8 +9,6 @@
   <header class="hero">
     <h1>Asif Zaman</h1>
     <p>Sales Engineer | Data Governance & Healthcare Tech</p>
-    <button id="theme-toggle">Toggle Theme</button>
-  </header>
 
   <section id="about">
     <h2>About Me</h2>
